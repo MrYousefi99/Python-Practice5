@@ -1,0 +1,5 @@
+# Python-Practice5![tic tac toe 1](https://user-images.githubusercontent.com/84061517/163048468-8c80172d-c550-48ed-97a6-4ab1f538fe9e.png)
+![tic tac toe 3](https://user-images.githubusercontent.com/84061517/163048474-e5e4e230-38a5-40eb-987d-896ac38826a7.png)
+![shatranj](https://user-images.githubusercontent.com/84061517/163048476-87760b09-fc8e-4cd9-82da-14b497555d6b.png)
+![zarb](https://user-images.githubusercontent.com/84061517/163048483-e8b7f430-d752-4307-b9e1-028b24636ea4.png)
+![tic tac toe 2](https://user-images.githubusercontent.com/84061517/163048489-649055ca-b813-4f1c-984f-ea9e3eb7be6f.png)
